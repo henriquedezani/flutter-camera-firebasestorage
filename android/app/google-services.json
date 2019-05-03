@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1040522439416",
+    "firebase_url": "https://seminarios-ads-2019.firebaseio.com",
+    "project_id": "seminarios-ads-2019",
+    "storage_bucket": "seminarios-ads-2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040522439416:android:bddc0b3151bf40f8",
+        "android_client_info": {
+          "package_name": "br.edu.fatecriopreto.ads.pdm.seminarios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040522439416-ard7f2sq4uh2bp8mt49bmavtm015padl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1eorzu2K1lZL-ChpZDBolCTCSwaB1-90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040522439416-ard7f2sq4uh2bp8mt49bmavtm015padl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
